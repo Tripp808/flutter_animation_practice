@@ -7,12 +7,16 @@ Color Animation: The container's color transitions between blue and red.
 
 ## Code Explanation
 Animation Setup
-An AnimationController is used to manage the animation's timing.
-Tween<double> is used for the size transition.
-ColorTween is used for the color transition.
 
-Key Components
-AnimationController: Manages the animation's duration and state.
-Tween: Defines the start and end values for the animation.
-CurvedAnimation: Applies an easing curve to the animation.
-AnimatedBuilder: Rebuilds the widget tree whenever the animation value changes.
+### An AnimationController is used to manage the animation's timing.
+
+### Tween<double> is used for the size transition.
+
+### ColorTween is used for the color transition.
+
+## Key Components
+### AnimationController: Manages the animation's duration and state.
+
+### Tween: Defines the start and end values for the animation.
+### CurvedAnimation: Applies an easing curve to the animation.
+### AnimatedBuilder: Rebuilds the widget tree whenever the animation value changes.
