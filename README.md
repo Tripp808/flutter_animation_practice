@@ -6,7 +6,7 @@ Size Animation: The container's size transitions between 50x50 and 200x200.
 Color Animation: The container's color transitions between blue and red.
 
 ## Code Explanation
-Animation Setup
+## Animation Setup
 
 ### An AnimationController is used to manage the animation's timing.
 
